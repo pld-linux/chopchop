@@ -1,5 +1,5 @@
 Summary:	WEP cracker which uses the AP to decipher packets
-Summary(pl):	³amacz WEP'a, który u¿ywa AP by odszyfrowaæ pakiety
+Summary(pl):	£amacz WEP'a, który u¿ywa AP by odszyfrowaæ pakiety
 Name:		chopchop
 Version:	0.1
 Release:	0.1
@@ -11,7 +11,8 @@ BuildRequires:	libpcap-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-ble
+WEP cracker which uses the AP to decipher packets. Easiest one are
+ARP's. Takes 10-20s.
 
 %prep
 %setup -q
