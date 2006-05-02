@@ -11,6 +11,7 @@ Source0:	%{name}-%{version}.zip
 # Source0-md5:	c5f97976238058c9de96266e23a6f7e2
 URL:		http://www.netstumbler.org/showthread.php?t=12489
 BuildRequires:	libpcap-devel
+BuildRequires:	unzip
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
