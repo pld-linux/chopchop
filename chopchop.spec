@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	WEP cracker which uses the AP to decipher packets
-Summary(pl):	£amacz WEP-a uøywaj±cy AP do odszyfrowywania pakietÛw
+Summary(pl.UTF-8):   ≈Åamacz WEP-a u≈ºywajƒÖcy AP do odszyfrowywania pakiet√≥w
 Name:		chopchop
 Version:	0.1
 Release:	0.1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 WEP cracker which uses the AP to decipher packets. Easiest one are
 ARP's. Takes 10-20s.
 
-%description -l pl
-£amacz WEP-a uøywaj±cy AP do odszyfrowywania pakietÛw. Naj≥atwiejsze
+%description -l pl.UTF-8
+≈Åamacz WEP-a u≈ºywajƒÖcy AP do odszyfrowywania pakiet√≥w. Naj≈Çatwiejsze
 to ARP. Zajmuje to 10-20s.
 
 %prep
