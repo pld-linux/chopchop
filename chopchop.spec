@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	WEP cracker which uses the AP to decipher packets
-Summary(pl.UTF-8):   Łamacz WEP-a używający AP do odszyfrowywania pakietów
+Summary(pl.UTF-8):	Łamacz WEP-a używający AP do odszyfrowywania pakietów
 Name:		chopchop
 Version:	0.1
 Release:	0.1
